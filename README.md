@@ -4,4 +4,4 @@ Simple fun pixel art project of a minature story game detailing the life and adv
 
 Pygame is based on OOP and extensive Classification, Inheritance, and other aspects such as event handling are emphasized in this project
 
-*PROJECT IS STILL ONGOING**
+**PROJECT IS STILL ONGOING**
